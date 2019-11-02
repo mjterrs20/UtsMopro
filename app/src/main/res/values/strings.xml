@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTSMOPRO</string>
+    <string name="nama">Muhammad Rizki Aditia</string>
+    <string name="nim">1167050106</string>
+    <string name="alamat">Perum BIP block A.17</string>
+    <string name="contact">Nomor Telepon</string>
+    <string name="sosmed">Instagram</string>
+    <string name="loc">Alamat</string>
+</resources>

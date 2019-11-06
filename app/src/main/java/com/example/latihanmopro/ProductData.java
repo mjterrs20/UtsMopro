@@ -21,7 +21,6 @@ public class ProductData {
             {"Ultra Milk", "Susu UHT yang rendah lemak digemari masyarkat indonesia","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMb6Hm3tWy5fyNdUEcQfyCWwh5FMgMRfZOu1rN0-qjT8q-7opI"},
             {"Zee", "Susu Pertumbuhan anak","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSCYVsd8ieB_ZTI1QUkJ9_dL3UGeVHDwuKS19OS1IacSEYgcER"},
             {"Bear Brand", "Susu steril dengan rasa yang enak","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTm6j7ZXL67YGBgBG4Pqin4-M-PLrzwLpoYfNz35xHvb6zqzun"},
-            {"Indo Milk", "Murah dan Sangat membantu perkembangan anak","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfrMWxAIR6ZDNYyt9fvKOaFAsJjRqopHF0c4FImQvcSc9dmX-u"}
     };
 
     public static ArrayList<Product> getListData(){
